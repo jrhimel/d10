@@ -26,6 +26,9 @@ PRODUCT_NAME := havoc_santoni
 BOARD_VENDOR := Xiaomi
 PRODUCT_MANUFACTURER := Xiaomi
 
+# RR Wallpapers
+BUILD_RR_WALLPAPERS := true
+
 # RR Stuffs
 TARGET_FACE_UNLOCK_SUPPORTED := true
 export RR_BUILDTYPE := Official
